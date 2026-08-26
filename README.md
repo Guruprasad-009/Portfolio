@@ -45,4 +45,4 @@ Simply open the index.html file in any modern web browser.
 
 🌍 Deployment
 
-Deployed using GitHub Pages / Netlify / Vercel.
+Deployed using GitHub Pages.
